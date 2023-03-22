@@ -1,2 +1,2 @@
-# lit-
+# lit
 Today I learnt
